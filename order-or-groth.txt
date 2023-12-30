@@ -1,0 +1,7 @@
+c < loglog n < log n < n^1/3 < n^1/2 < n <n^2 < n^3......
+rotate array using reverse logic
+odd element using hashing
+missing number using XOR
+buy and sell stocks
+i/p : [7,2,3,1,6,9]
+o/p : 7
