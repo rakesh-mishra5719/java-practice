@@ -1,0 +1,22 @@
+stock span
+histogram problem    (area)
+[[], [100], [80], [60], [70], [60], [75], [85]]
+Output
+[null, 1, 1, 1, 2, 1, 4, 6]
+
+inputs
+
+
+1. if open bracket  store in stack;
+2 .if oprend store in string 
+3. if operator store in stack
+     if high presedence peek then store 
+     else 
+     store 
+     pop peek
+     store current input;
+         
+4. if close bracket 
+
+    reverse all the operators which after the open bracket 
+    and store in string;
